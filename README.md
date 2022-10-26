@@ -3,7 +3,7 @@ Personal PCB projects (KiCAD)
 
 **Guitar pedal power supply with 6 isolated outputs**
 
-![psu](https://user-images.githubusercontent.com/37382177/198110156-f3f7ed2a-ad3e-4bf1-a0c3-a3dde761f6e9.png)
+![psu](https://user-images.githubusercontent.com/37382177/198149870-fbf0f164-79b9-47fa-bd9c-a760ead0c272.png)
 
 
 **USB Audio Interface**

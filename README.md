@@ -1,5 +1,5 @@
 # PCBs
-Personal PCB projects
+Personal PCB projects (KiCAD)
 
 **Guitar pedal power supply with 6 isolated outputs**
 

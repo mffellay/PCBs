@@ -7,6 +7,7 @@ Personal PCB projects (KiCAD)
 
 
 **USB Audio Interface**
-*Future Project*
+*Ongoing*
 
-![audiointerface](https://user-images.githubusercontent.com/37382177/198110484-4c5772e0-0120-4c88-81dd-ef517b56b257.png)
+![audiointerface3d](https://user-images.githubusercontent.com/37382177/198838902-78b34ab7-83d5-4df3-a473-4fb78bdef6d4.png)
+
